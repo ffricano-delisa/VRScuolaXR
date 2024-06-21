@@ -1,0 +1,3 @@
+- BackEnd: problema mac-address-not-used quando si passa al subject "introduzione"
+- Rimuovere lo standby agli oculus
+- Chiamata userinfo: condizione di avvio non verificata, perchè?
